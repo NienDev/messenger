@@ -1,0 +1,178 @@
+{
+  "userMsg": [
+    {
+      "id": "U1",
+      "friends": [
+        {
+          "id": "U2",
+          "msgs": [
+            {
+              "id": "U1U20",
+              "content": "Hello nien",
+              "date": "2/2/2022",
+              "time": "12:02",
+              "sender": "me"
+            },
+            {
+              "id": "U1U21",
+              "content": "bye nien",
+              "date": "2/2/2022",
+              "time": "12:03",
+              "sender": "you"
+            }
+          ],
+          "seen": false
+        },
+        {
+          "id": "U3",
+          "msgs": [
+            {
+              "id": "U1U30",
+              "content": "an nhong nien",
+              "date": "2/2/2022",
+              "time": "12:10"
+            },
+            {
+              "id": "U1U31",
+              "content": "bai bai nien",
+              "date": "2/2/2022",
+              "time": "12:11"
+            }
+          ],
+          "seen": true
+        },
+        {
+          "id": "U4",
+          "msgs": [
+            {
+              "id": "U1U40",
+              "content": "an com di nha nien",
+              "date": "2/2/2022",
+              "time": "12:10"
+            },
+            {
+              "id": "U1U41",
+              "content": "ga chien nha",
+              "date": "2/2/2022",
+              "time": "12:11"
+            }
+          ],
+          "seen": false
+        },
+        {
+          "id": "U5",
+          "msgs": [
+            {
+              "id": "U1U50",
+              "content": "thiet la vui",
+              "date": "2/2/2022",
+              "time": "12:10"
+            },
+            {
+              "id": "U1U51",
+              "content": "phai hong do",
+              "date": "2/2/2022",
+              "time": "12:11"
+            }
+          ],
+          "seen": false
+        },
+        {
+          "id": "U6",
+          "msgs": [
+            {
+              "id": "U1U60",
+              "content": "tam su xiu i",
+              "date": "2/2/2022",
+              "time": "12:10"
+            },
+            {
+              "id": "U1U61",
+              "content": "thuong ghe",
+              "date": "2/2/2022",
+              "time": "12:11"
+            }
+          ]
+        },
+        {
+          "id": "U7",
+          "msgs": [
+            {
+              "id": "U1U70",
+              "content": "ngu ngon a",
+              "date": "2/2/2022",
+              "time": "12:10"
+            },
+            {
+              "id": "U1U71",
+              "content": "you tuuuu",
+              "date": "2/2/2022",
+              "time": "12:11"
+            }
+          ],
+          "seen": false
+        },
+        {
+          "id": "U8",
+          "msgs": [
+            {
+              "id": "U1U80",
+              "content": "an com chua",
+              "date": "2/2/2022",
+              "time": "12:10"
+            },
+            {
+              "id": "U1U81",
+              "content": "nhem nhem",
+              "date": "2/2/2022",
+              "time": "12:11"
+            }
+          ],
+          "seen": false
+        }
+      ]
+    }
+  ],
+  "UserInfo": [
+    {
+      "id": "U1",
+      "name": "Tran Dai Nien",
+      "img": "/imgs/her.jpg"
+    },
+    {
+      "id": "U2",
+      "name": "Nguyen Thi My Kim",
+      "img": "/imgs/her.jpg"
+    },
+    {
+      "id": "U3",
+      "name": "Nien va Kim",
+      "img": "/imgs/her.jpg"
+    },
+    {
+      "id": "U4",
+      "name": "Nin",
+      "img": "/imgs/her.jpg"
+    },
+    {
+      "id": "U5",
+      "name": "Kim cute",
+      "img": "/imgs/her.jpg"
+    },
+    {
+      "id": "U6",
+      "name": "Kim cute cute",
+      "img": "/imgs/her.jpg"
+    },
+    {
+      "id": "U7",
+      "name": "Nien nua ne",
+      "img": "/imgs/her.jpg"
+    },
+    {
+      "id": "U8",
+      "name": "Kim cute cute cute",
+      "img": "/imgs/her.jpg"
+    }
+  ]
+}
